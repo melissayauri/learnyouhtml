@@ -12,7 +12,7 @@ El presente trabajo consta de practicar el lenguaje HTML a tráves de los siguie
 * Blocks
 * Links and references
 * Forms
-* Styles and scripts</a></li>
+* Styles and scripts
 
 ## Requerimientos
 1. Instalar el programa `node.js`.
@@ -25,4 +25,4 @@ El presente trabajo consta de practicar el lenguaje HTML a tráves de los siguie
 5. Para ingresar a cada ejercicio dar `enter`.
 6. Para verificar cada ejercicio realizado ejecutar `learnyouhtml verify index.html`.
 7. Para abrirlo en el navegador ejecutar `learnyouhtml run index.html`.
-8. Por último para seguir con otro ejercicio ejercutar `learnyouhtml`. 
+8. Por último para seguir con otro ejercicio ejercutar `learnyouhtml`.
